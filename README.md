@@ -24,7 +24,7 @@ cd ~/muktek/assignments/rest-countries-api-assignment
 
 2. Download assignment zip file in folder and unzip it.
 ```sh
-curl https://raw.githubusercontent.com/muktek/assignment--intro-to-apis-and-promises/master/assignemnt-files.zip > assignment-files.zip
+curl https://raw.githubusercontent.com/muktek/assignment--intro-to-apis-and-promises/master/assignment-files.zip > assignment-files.zip
 
 unzip assignment-files.zip
 ```
