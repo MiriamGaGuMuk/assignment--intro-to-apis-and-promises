@@ -24,7 +24,9 @@ cd ~/muktek/assignments/rest-countries-api-assignment
 
 2. Download assignment zip file in folder and unzip it.
 ```sh
-curl https://github.com/muktek/assignment--intro-to-apis-and-promises/blob/master/assignemnt-files.zip
+curl https://raw.githubusercontent.com/muktek/assignment--intro-to-apis-and-promises/master/assignemnt-files.zip > assignment-files.zip
+
+unzip assignment-files.zip
 ```
 
 3. In `index.html` use the `<script>` tag to link to the superagent library and link to your javascrpt file (`./js/app.js`).
